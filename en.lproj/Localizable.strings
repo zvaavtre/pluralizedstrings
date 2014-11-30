@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  PF
+
+  Created by M. David Minnigerode on 11/28/14.
+  Copyright (c) 2014 M. David Minnigerode. All rights reserved.
+*/
+"key1" = "Base1en";
+
+"apples-float" = "%.1f apples";
+
+"apples-float##{one}" = "One apple";
+"apples-float##{other}" = "%.1f apples";
+
+"apples##{one}" = "One apple";
+"apples##{other}" = "%@ apples";
+
+
